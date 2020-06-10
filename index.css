@@ -1,0 +1,16 @@
+@font-face{
+    font-family: 'webfont';
+    src: url('../font/PINGFANG MEDIUM_0.eot');
+    src:
+        url('./font/PINGFANG MEDIUM_0.eot?#font-spider') format('embedded-opentype'),
+        url('./font/PINGFANG MEDIUM_0.woff') format('woff'),
+        url('./font/PINGFANG MEDIUM_0.woff2') format('woff2'),
+        url('./font/PINGFANG MEDIUM_0.ttf') format('truetype'),
+        url('./font/PINGFANG MEDIUM_0.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+html{
+    font-family: 'webfont';
+}
